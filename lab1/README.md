@@ -25,7 +25,7 @@ We clone the code from GitHub onto the VM. Then we install Node.js on the VM, si
 
 The following picture shows an order being placed.
 
-![place order](/screenshots/Order-confirmation.png)
+![place order](screenshots/Order-confirmation.png)
 
 ### Product Service (Rust)
 
@@ -39,7 +39,7 @@ We use the Vue framework to build the frontend page (Store Front). When the page
 
 The front page is shown below.
 
-![frontpage](/screenshots/Frontend-page.png)
+![frontpage](screenshots/Frontend-page.png)
 
 ---
 
