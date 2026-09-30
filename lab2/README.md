@@ -1,8 +1,11 @@
 # CST8915 Lab2: Refactoring the Lab 1 App with the 12-Factor Methodology
 
 **Student Name**: Tao Lu
+
 **Student ID**: 41284860
+
 **Course**: CST8915 Full-stack Cloud-native Development
+
 **Semester**: Fall 2026
 
 ---
